@@ -1,2 +1,0 @@
-CREATE DATABASE VaxTrak_DB;
-GO
